@@ -1,17 +1,17 @@
 {
  "success": true,
  "data": {
-  "obrasActivas": 6,
+  "obrasActivas": 20,
   "obrasCompletadas": 1,
-  "obrasRetrasadas": 2,
-  "inversionTotal": 23940000,
-  "avancePromedio": 46,
+  "obrasRetrasadas": 12,
+  "inversionTotal": 256085208.65999997,
+  "avancePromedio": 14,
   "comunidadesImpactadas": 5,
   "presupuestoPorRegion": [
    {
     "region": "REG-001",
     "comunidad": "Cabecera Municipal",
-    "total": 9590000
+    "total": 241735208.65999997
    },
    {
     "region": "REG-002",
@@ -41,14 +41,42 @@
    },
    {
     "status": "en_progreso",
-    "count": 3
+    "count": 7
    },
    {
     "status": "retrasada",
-    "count": 2
+    "count": 12
    }
   ],
   "obrasRecientes": [
+   {
+    "id": "OBR-019",
+    "nombre": "Rehabilitación de la PTAR Santa Fe, Alcaldía Álvaro Obregón",
+    "fechaInicio": "2026-09-11",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-020",
+    "nombre": "Construcción de la Planta Potabilizadora Culturas El Rosario, Alcaldía Azcapotzalco",
+    "fechaInicio": "2026-09-07",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-018",
+    "nombre": "Rehabilitación obra civil y electromecánica Planta de Bombeo No. 5-A del Gran Canal",
+    "fechaInicio": "2025-11-14",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-017",
+    "nombre": "Rehabilitación Planta de Bombeo GM5 (80 LPS), Gustavo A. Madero",
+    "fechaInicio": "2025-09-01",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
    {
     "id": "OBR-006",
     "nombre": "Techumbre de la plaza cívica, Cabecera Municipal",
@@ -64,35 +92,21 @@
     "avanceFisico": 24
    },
    {
+    "id": "OBR-016",
+    "nombre": "Rehabilitación de planta de rebombeo CGM 11 (Fideicomiso 1928), Gustavo A. Madero",
+    "fechaInicio": "2025-04-14",
+    "status": "retrasada",
+    "avanceFisico": 0
+   },
+   {
     "id": "OBR-002",
     "nombre": "Rehabilitación de la red de agua potable, San Francisco Oxtotilpan",
     "fechaInicio": "2025-03-10",
     "status": "en_progreso",
     "avanceFisico": 29
-   },
-   {
-    "id": "OBR-001",
-    "nombre": "Pavimentación de la calle Morelos, primera etapa",
-    "fechaInicio": "2025-02-03",
-    "status": "retrasada",
-    "avanceFisico": 67
-   },
-   {
-    "id": "OBR-003",
-    "nombre": "Construcción de aula didáctica, San Martín Tequesquipan",
-    "fechaInicio": "2025-01-20",
-    "status": "retrasada",
-    "avanceFisico": 55
-   },
-   {
-    "id": "OBR-004",
-    "nombre": "Muro de contención sobre el camino a Real de Arriba",
-    "fechaInicio": "2024-08-05",
-    "status": "completada",
-    "avanceFisico": 100
    }
   ],
-  "promedioDuracionDias": 180,
+  "promedioDuracionDias": 117,
   "topConstructoras": [
    {
     "nombre": "Constructora Nevado de Toluca S.A. de C.V.",
@@ -105,6 +119,14 @@
    {
     "nombre": "Dirección de Obra Municipal",
     "obrasCount": 2
+   },
+   {
+    "nombre": "SUPERVISION Y CONSTRUCCION DE OBRAS ESPECIALIZADAS MTA SA DE CV",
+    "obrasCount": 2
+   },
+   {
+    "nombre": "CDCI SA DE CV",
+    "obrasCount": 1
    }
   ]
  },
