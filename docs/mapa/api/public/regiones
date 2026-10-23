@@ -10,6 +10,118 @@
    "lng": -100.0414301
   },
   {
+   "id": "REG-018",
+   "comunidad": "CDMX — Álvaro Obregón",
+   "barrio": "Santa Fe",
+   "colonia": "Santa Fe",
+   "lat": 19.3839639,
+   "lng": -99.2350938
+  },
+  {
+   "id": "REG-019",
+   "comunidad": "CDMX — Azcapotzalco",
+   "barrio": "Colonia El Rosario",
+   "colonia": "El Rosario CROC VI Oyameles",
+   "lat": 19.5076933,
+   "lng": -99.2000731
+  },
+  {
+   "id": "REG-012",
+   "comunidad": "CDMX — corredor México-Texcoco",
+   "barrio": "Autopista México-Texcoco (km ~4)",
+   "colonia": null,
+   "lat": 19.4526692,
+   "lng": -99.0508676
+  },
+  {
+   "id": "REG-014",
+   "comunidad": "CDMX — Cuauhtémoc",
+   "barrio": "Oficinas SACMEX (referencia pública OSM)",
+   "colonia": "Condesa",
+   "lat": 19.426072,
+   "lng": -99.1734719
+  },
+  {
+   "id": "REG-015",
+   "comunidad": "CDMX — Gustavo A. Madero",
+   "barrio": "Centroide alcaldía GAM (CGM 11 sin calle en ficha)",
+   "colonia": null,
+   "lat": 19.4827949,
+   "lng": -99.1133606
+  },
+  {
+   "id": "REG-010",
+   "comunidad": "CDMX — Gustavo A. Madero",
+   "barrio": "Colonia Atzacoalco CTM",
+   "colonia": "Atzacoalco CTM",
+   "lat": 19.5098511,
+   "lng": -99.1023293
+  },
+  {
+   "id": "REG-016",
+   "comunidad": "CDMX — Gustavo A. Madero",
+   "barrio": "Colonia La Casilda",
+   "colonia": "La Casilda",
+   "lat": 19.5578,
+   "lng": -99.1236024
+  },
+  {
+   "id": "REG-011",
+   "comunidad": "CDMX — Gustavo A. Madero",
+   "barrio": "Colonia Lindavista",
+   "colonia": "Lindavista",
+   "lat": 19.4925823,
+   "lng": -99.1292587
+  },
+  {
+   "id": "REG-006",
+   "comunidad": "CDMX — Gustavo A. Madero",
+   "barrio": "Colonia Zacatenco",
+   "colonia": "Zacatenco",
+   "lat": 19.5045937,
+   "lng": -99.1315872
+  },
+  {
+   "id": "REG-009",
+   "comunidad": "CDMX — Iztapalapa",
+   "barrio": "Colonia Lomas Estrella",
+   "colonia": "Lomas Estrella 2a. Sección",
+   "lat": 19.3180657,
+   "lng": -99.0939756
+  },
+  {
+   "id": "REG-013",
+   "comunidad": "CDMX — Iztapalapa",
+   "barrio": "Parque Nacional Cerro de la Estrella",
+   "colonia": "Cerro de la Estrella",
+   "lat": 19.3445478,
+   "lng": -99.0917531
+  },
+  {
+   "id": "REG-008",
+   "comunidad": "CDMX — La Magdalena Contreras",
+   "barrio": "Huayatla",
+   "colonia": "Huayatla",
+   "lat": 19.3080415,
+   "lng": -99.2623418
+  },
+  {
+   "id": "REG-007",
+   "comunidad": "CDMX — Venustiano Carranza",
+   "barrio": "Colonia Peñón de los Baños",
+   "colonia": "Peñón de los Baños",
+   "lat": 19.4396035,
+   "lng": -99.0815695
+  },
+  {
+   "id": "REG-017",
+   "comunidad": "CDMX — Venustiano Carranza",
+   "barrio": "Parque Lineal Gran Canal",
+   "colonia": null,
+   "lat": 19.4423902,
+   "lng": -99.1046418
+  },
+  {
    "id": "REG-004",
    "comunidad": "Real de Arriba",
    "barrio": "La Mina",

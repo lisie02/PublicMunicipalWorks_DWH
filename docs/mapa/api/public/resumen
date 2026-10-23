@@ -6,12 +6,12 @@
   "obrasRetrasadas": 12,
   "inversionTotal": 256085208.65999997,
   "avancePromedio": 14,
-  "comunidadesImpactadas": 5,
+  "comunidadesImpactadas": 13,
   "presupuestoPorRegion": [
    {
     "region": "REG-001",
     "comunidad": "Cabecera Municipal",
-    "total": 241735208.65999997
+    "total": 9590000
    },
    {
     "region": "REG-002",
@@ -32,6 +32,76 @@
     "region": "REG-005",
     "comunidad": "San Mateo Almomoloa",
     "total": 2480000
+   },
+   {
+    "region": "REG-006",
+    "comunidad": "CDMX — Gustavo A. Madero",
+    "total": 2867386.26
+   },
+   {
+    "region": "REG-007",
+    "comunidad": "CDMX — Venustiano Carranza",
+    "total": 7475602.1
+   },
+   {
+    "region": "REG-008",
+    "comunidad": "CDMX — La Magdalena Contreras",
+    "total": 4571771.76
+   },
+   {
+    "region": "REG-009",
+    "comunidad": "CDMX — Iztapalapa",
+    "total": 5644782.33
+   },
+   {
+    "region": "REG-010",
+    "comunidad": "CDMX — Gustavo A. Madero",
+    "total": 5259430.7
+   },
+   {
+    "region": "REG-011",
+    "comunidad": "CDMX — Gustavo A. Madero",
+    "total": 7069341.15
+   },
+   {
+    "region": "REG-012",
+    "comunidad": "CDMX — corredor México-Texcoco",
+    "total": 2050000
+   },
+   {
+    "region": "REG-013",
+    "comunidad": "CDMX — Iztapalapa",
+    "total": 5000000
+   },
+   {
+    "region": "REG-014",
+    "comunidad": "CDMX — Cuauhtémoc",
+    "total": 14997060.51
+   },
+   {
+    "region": "REG-015",
+    "comunidad": "CDMX — Gustavo A. Madero",
+    "total": 6443623.76
+   },
+   {
+    "region": "REG-016",
+    "comunidad": "CDMX — Gustavo A. Madero",
+    "total": 7076101.72
+   },
+   {
+    "region": "REG-017",
+    "comunidad": "CDMX — Venustiano Carranza",
+    "total": 19958298.93
+   },
+   {
+    "region": "REG-018",
+    "comunidad": "CDMX — Álvaro Obregón",
+    "total": 74122724.99
+   },
+   {
+    "region": "REG-019",
+    "comunidad": "CDMX — Azcapotzalco",
+    "total": 69609084.45
    }
   ],
   "obrasPorStatus": [
