@@ -1,0 +1,134 @@
+{
+ "success": true,
+ "data": {
+  "obrasActivas": 20,
+  "obrasCompletadas": 1,
+  "obrasRetrasadas": 12,
+  "inversionTotal": 256085208.65999997,
+  "avancePromedio": 14,
+  "comunidadesImpactadas": 5,
+  "presupuestoPorRegion": [
+   {
+    "region": "REG-001",
+    "comunidad": "Cabecera Municipal",
+    "total": 241735208.65999997
+   },
+   {
+    "region": "REG-002",
+    "comunidad": "San Francisco Oxtotilpan",
+    "total": 6800000
+   },
+   {
+    "region": "REG-003",
+    "comunidad": "San Martín Tequesquipan",
+    "total": 1950000
+   },
+   {
+    "region": "REG-004",
+    "comunidad": "Real de Arriba",
+    "total": 3120000
+   },
+   {
+    "region": "REG-005",
+    "comunidad": "San Mateo Almomoloa",
+    "total": 2480000
+   }
+  ],
+  "obrasPorStatus": [
+   {
+    "status": "completada",
+    "count": 1
+   },
+   {
+    "status": "en_progreso",
+    "count": 7
+   },
+   {
+    "status": "retrasada",
+    "count": 12
+   }
+  ],
+  "obrasRecientes": [
+   {
+    "id": "OBR-019",
+    "nombre": "Rehabilitación de la PTAR Santa Fe, Alcaldía Álvaro Obregón",
+    "fechaInicio": "2026-09-11",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-020",
+    "nombre": "Construcción de la Planta Potabilizadora Culturas El Rosario, Alcaldía Azcapotzalco",
+    "fechaInicio": "2026-09-07",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-018",
+    "nombre": "Rehabilitación obra civil y electromecánica Planta de Bombeo No. 5-A del Gran Canal",
+    "fechaInicio": "2025-11-14",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-017",
+    "nombre": "Rehabilitación Planta de Bombeo GM5 (80 LPS), Gustavo A. Madero",
+    "fechaInicio": "2025-09-01",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-006",
+    "nombre": "Techumbre de la plaza cívica, Cabecera Municipal",
+    "fechaInicio": "2025-05-02",
+    "status": "en_progreso",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-005",
+    "nombre": "Alumbrado público con luminarias LED, San Mateo Almomoloa",
+    "fechaInicio": "2025-04-14",
+    "status": "en_progreso",
+    "avanceFisico": 24
+   },
+   {
+    "id": "OBR-016",
+    "nombre": "Rehabilitación de planta de rebombeo CGM 11 (Fideicomiso 1928), Gustavo A. Madero",
+    "fechaInicio": "2025-04-14",
+    "status": "retrasada",
+    "avanceFisico": 0
+   },
+   {
+    "id": "OBR-002",
+    "nombre": "Rehabilitación de la red de agua potable, San Francisco Oxtotilpan",
+    "fechaInicio": "2025-03-10",
+    "status": "en_progreso",
+    "avanceFisico": 29
+   }
+  ],
+  "promedioDuracionDias": 117,
+  "topConstructoras": [
+   {
+    "nombre": "Constructora Nevado de Toluca S.A. de C.V.",
+    "obrasCount": 2
+   },
+   {
+    "nombre": "Ingeniería Civil Tequesquipan S.C.",
+    "obrasCount": 2
+   },
+   {
+    "nombre": "Dirección de Obra Municipal",
+    "obrasCount": 2
+   },
+   {
+    "nombre": "SUPERVISION Y CONSTRUCCION DE OBRAS ESPECIALIZADAS MTA SA DE CV",
+    "obrasCount": 2
+   },
+   {
+    "nombre": "CDCI SA DE CV",
+    "obrasCount": 1
+   }
+  ]
+ },
+ "message": ""
+}
